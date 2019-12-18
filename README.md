@@ -1,6 +1,6 @@
-# {{ name }}
+# nuxt_typescript
 
-> {{ description }}
+> Nuxt.js project
 
 ## Build Setup
 
